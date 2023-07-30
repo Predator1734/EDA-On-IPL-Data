@@ -1,1 +1,1 @@
-# EDA-On-IPL-Data
+# Exploratory Data Analysis On IPL Data
